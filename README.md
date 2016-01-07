@@ -1,4 +1,4 @@
-# Node performance tracker
+# Node performance tracker {<img src="https://travis-ci.org/jemmyw/node-performance-tracker.svg?branch=master" alt="Build Status" />}[https://travis-ci.org/jemmyw/node-performance-tracker]
 
 A really simple node performance / benchmark tool for production logging
 
